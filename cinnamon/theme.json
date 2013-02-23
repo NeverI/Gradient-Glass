@@ -1,0 +1,10 @@
+{ 
+   "Cinnamon theme": {
+   "name": "Gradient Glass - Light", 
+   "author": "NeverI from Zukitwo theme", 
+   "version": "1.0",
+   "type":   "custom",
+   "thumbnail": "thumbnail.png", 
+   "url": "" 
+    }
+}
